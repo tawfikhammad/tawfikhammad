@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tawfik</h1>
+<h1 align="center">Hi , I'm Tawfik 👋</h1>
 <h3 align="center">A passionate ML and data science from egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawfikhammad&label=Profile%20views&color=0e75b6&style=flat" alt="tawfikhammad" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elmetwalleyhammad@gmail.com**
 
-- ⚡ Fun fact **I love drawing**
+- ⚡ Fun fact **I love drawing 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
