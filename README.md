@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad" alt="tawfikhammad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tee_fa3" target="blank"><img src="https://img.shields.io/twitter/follow/tee_fa3?logo=twitter&style=for-the-badge" alt="tee_fa3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tee_fa3" target="blank"><img src="https://img.shields.io/twitter/follow/tee_fa3?logo=twitter&style=for-the-badge" alt="tmetwally_3" /></a> </p>
 
 -  I’m currently learning **pattern recognition,NLP and data sience**
 
