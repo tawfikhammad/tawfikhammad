@@ -11,7 +11,6 @@
 
 -  How to reach me **elmetwalleyhammad@gmail.com**
 
--  Fun fact **I love drawing 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
