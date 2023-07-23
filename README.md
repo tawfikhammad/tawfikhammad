@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML and data science from Egypt</h3>
 
 
-<img align='right' alt='coding' width='400' src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif'>
+<img align='right' src="https://fiftytwodigital.com/wp-content/uploads/2022/02/slide1_webDev.png" width=300>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawfikhammad&label=Profile%20views&color=0e75b6&style=flat" alt="tawfikhammad" /> </p>
