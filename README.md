@@ -9,6 +9,11 @@
      <a href="https://www.linkedin.com/in/tawfik-hammad-49aa1024a" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/tawfik-hammad-49aa1024a/" alt="tawfikhammad" /> </a>
  </div>
 
+- I’m currently learning **Pattern Recognition, NLP and Data Science**
+  
+- All of my projects are available at [Kaggle account](https://www.kaggle.com/tawfikelmetwally)
+
+- I sometimes write articles on [medium](https://medium.com/@elmetwalleyhammad)
 
 <p align="center">
 
