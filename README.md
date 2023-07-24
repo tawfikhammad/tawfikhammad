@@ -2,8 +2,6 @@
 
 <h2 align="center">I'm a Machine Learning & Data Science Enthusiast</h2>
 
-<img align='right' src="https://fiftytwodigital.com/wp-content/uploads/2022/02/slide1_webDev.png" width=300>
-
 <div class="row">
     <img src="https://img.shields.io/github/followers/tawfikhammad?label=Github%20followers&style=for-the-badge" alt="tawfikhammad" />
     <img src="https://img.shields.io/github/stars/tawfikhammad?label=Github%20stars&style=for-the-badge" alt="tawfikhammad" />
@@ -27,6 +25,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tawfikelmetwally/discussion/dark" />
 </p>
 
+<img align='right' src="https://fiftytwodigital.com/wp-content/uploads/2022/02/slide1_webDev.png" width=300>
 
 ![tawfikelmetwally](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tawfikelmetwally)
 
