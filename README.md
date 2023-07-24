@@ -134,7 +134,7 @@
 <br/>
 
 <p align="center">
-    <table align="center">
+    <table align="lift">
         <tr>
             <td>
                  <a href="https://git.io/streak-stats">
@@ -147,26 +147,14 @@
 
 ## 📊 My Github Stats
 
-<br/>
-<br/>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tawfik metwally's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tawfikhammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tawfik metwally's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfikhammad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-    </tr>
-</table>
+![tawfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawfikhammad&show_icons=true&theme=transparent)
 
 ## 📊 GitHub Profile Summary Card
 
 <br/>
 <br/>
 
-<p align="center">
+<p align="lift">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfikhammad&theme=github"/>
 </p>
 
