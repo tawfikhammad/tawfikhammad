@@ -145,10 +145,6 @@
 </p>
 
 
-## 📊 My Github Stats
-
-![tawfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawfikhammad&show_icons=true&theme=transparent)
-
 ## 📊 GitHub Profile Summary Card
 
 <br/>
