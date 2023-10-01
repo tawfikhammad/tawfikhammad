@@ -145,16 +145,7 @@
 </p>
 
 
-## 📊 GitHub Profile Summary Card
-
-<br/>
+## GitHub Profile Trophy 🏆
 <br/>
 
-<p align="lift">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfikhammad&theme=github"/>
-</p>
-
-
-<br/>
-
-![GitHub metrics](https://metrics.lecoq.io/tawfikhammad)  
+<p align="left"> <a href="https://github.com/tawfikhammad/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="tawfikhammad" /></a> </p>
