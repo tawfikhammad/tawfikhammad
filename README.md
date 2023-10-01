@@ -148,4 +148,4 @@
 ## GitHub Profile Trophy 🏆
 <br/>
 
-<p align="left"> <a href="https://github.com/tawfikhammad/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="tawfikhammad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="tawfikhammad" /></a> </p>
