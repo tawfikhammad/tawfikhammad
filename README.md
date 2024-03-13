@@ -14,24 +14,6 @@
 
 - I sometimes write articles on [medium](https://medium.com/@elmetwalleyhammad)
 
-<p align="center">
-
-  <br/>
-  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
- 
-</p>
-
-</p>
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tawfikelmetwally/competition/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tawfikelmetwally/dataset/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tawfikelmetwally/notebook/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tawfikelmetwally/discussion/dark" />
-</p>
-
-<img align='right' src="https://fiftytwodigital.com/wp-content/uploads/2022/02/slide1_webDev.png" width=300>
-
-![tawfikelmetwally](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tawfikelmetwally)
 
 
 ## 🌐 Connect with me: 
