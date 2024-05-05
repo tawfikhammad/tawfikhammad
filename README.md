@@ -4,7 +4,7 @@
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/tawfikhammad?label=Github%20followers&style=for-the-badge" alt="tawfikhammad" />
-    <img  src="https://komarev.com/ghpvc/?username=tawfikhammad&label=Profile%20Views&color=blue&style=for-the-badge" alt="tawfikhammad" />
+    <img src="https://komarev.com/ghpvc/?username=tawfikhammad&label=Profile%20Views&color=blue&style=for-the-badge" alt="tawfikhammad" />
      <a href="https://www.linkedin.com/in/tawfik-hammad-49aa1024a" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/tawfik-hammad-49aa1024a/" alt="tawfikhammad" /> </a>
  </div>
 
