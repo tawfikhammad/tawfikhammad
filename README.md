@@ -29,10 +29,7 @@
     <td>
      <a href="https://kaggle.com/tawfikelmetwally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tawfikelmetwally" height="30" width="40" /></a>
     </td>
-      <td>
-<a href="https://instagram.com/tmetwally23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tmetwally23" height="30" width="40" /></a>
-    </td>
-      <td>
+    <td>
 <a href="https://medium.com/@elmetwalleyhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="elmetwalleyhammad" height="30" width="40" /></a>
     </td>
   </tr>
