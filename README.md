@@ -8,11 +8,13 @@
      <a href="https://www.linkedin.com/in/tawfik-hammad-49aa1024a" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/tawfik-hammad-49aa1024a/" alt="tawfikhammad" /> </a>
  </div>
 
-- I’m currently learning **Pattern Recognition, NLP and Data Science**
+- I’m currently learning **Data Engineering and Big Data**.
   
 - All of my projects are available at [Kaggle account](https://www.kaggle.com/tawfikelmetwally)
 
 - I sometimes write articles on [medium](https://medium.com/@elmetwalleyhammad)
+
+- Check my [Resume](https://github.com/tawfikhammad/tawfikhammad/blob/main/Data%20Scientist%20Resume.pdf)
 
 
 
@@ -74,9 +76,8 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
-                        alt="sqlite" width="40" height="40"/> </a>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
             </td>
             <td>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
