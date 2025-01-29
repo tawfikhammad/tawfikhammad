@@ -1,118 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Tawfik!</h1>
+<h2 align="left">Hi👋🏼 I'm Tawfik!</h2>
 
-<h2 align="center">I'm a Machine Learning & Data Science Enthusiast</h2>
+Data Scientist & AI Engineer specializing in NLP, LLMs and AI Agents. \
+Reach me at: `tawfikhammad009@gmail.com`
 
-<div class="row">
-    <img src="https://img.shields.io/github/followers/tawfikhammad?label=Github%20followers&style=for-the-badge" alt="tawfikhammad" />
-    <img src="https://komarev.com/ghpvc/?username=tawfikhammad&label=Profile%20Views&color=blue&style=for-the-badge" alt="tawfikhammad" />
-     <a href="https://www.linkedin.com/in/tawfik-hammad-49aa1024a" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/tawfik-hammad-49aa1024a/" alt="tawfikhammad" /> </a>
- </div>
 
-- I’m currently learning **Data Engineering and Big Data**.
-  
-- All of my projects are available at [Kaggle account](https://www.kaggle.com/tawfikelmetwally)
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=flat-square" align="center" />
+</div>  
+<br>
 
-- I sometimes write articles on [medium](https://medium.com/@elmetwalleyhammad)
-
-- Check my [Resume](https://github.com/tawfikhammad/tawfikhammad/blob/main/Data%20Scientist%20Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tawfikhammad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/tmetwally_3) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?)](https://kaggle.com/tawfikhammad) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tmetwally23) 
 
 
 
-## 🌐 Connect with me: 
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <a href="https://twitter.com/tmetwally_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmetwally_3" height="30" width="40" /></a>
-    </td>
-    <td>
-     <a href="https://linkedin.com/in/tawfik-hammad-49aa1024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawfik-hammad-49aa1024a" height="30" width="40" /></a>
-    </td>
-    <td>
-     <a href="https://kaggle.com/tawfikelmetwally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tawfikelmetwally" height="30" width="40" /></a>
-    </td>
-    <td>
-<a href="https://medium.com/@elmetwalleyhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="elmetwalleyhammad" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
-
-
-
-## 💻 Languages and Tools:
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-        <tr>
-            <td>
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                        width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                        alt="csharp" width="40" height="40"/> </a>
-            </td>
-            <td>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                        alt="mysql" width="40" height="40" /> </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-            </td>
-            <td>
-                <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
-                        height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                        alt="scikit_learn" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
-                        height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
-                        alt="matlab" width="40" height="40"/> </a> 
-            </td>
-            <td>
-                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
-                        width="40" height="40" /> </a>
-            </td>
-        </tr>
- </table>
-    
-
-
-<br/>
-<br/>
-
-<p align="center">
+<p align="lift">
     <table align="lift">
         <tr>
             <td>
@@ -122,9 +24,3 @@
         </tr>
    </table>
 </p>
-
-
-## GitHub Profile Trophy 🏆
-<br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="tawfikhammad" /></a> </p>
