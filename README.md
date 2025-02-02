@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋🏼 I'm Tawfik!</h2>
 
 Data Scientist & AI Engineer specializing in NLP, LLMs and AI Agents. \
-Reach me at: `tawfikhammad009@gmail.com`
+Reach me at: `tawfikhammad009@gmail.com` 
 
 
 <div align="left">
