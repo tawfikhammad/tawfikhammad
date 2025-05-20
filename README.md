@@ -1,8 +1,11 @@
-# Hello World, I'm Tawfik 
-I am a Data Scientist & AI Engineer specializing in NLP, LLMs and AI Agents.
+# Hello World, I'm Tawfik <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoM2JmcGY0ZTNoZHppbHBlc2EzaXg0NXhyZmlmbGJhYnA3bTFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GEi6jx9kdjnaAdRH91/giphy.gif" width="60px" height="60px" />
+
+I love AI.
+
+**`NLP | LLMs | AI Agents | AI Wrkflow`**
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=plastic" align="center" />
 </div>  
 <br>
 
