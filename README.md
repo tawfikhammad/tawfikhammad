@@ -5,7 +5,7 @@ I love AI.
 **`NLP | LLMs | AI Agents | AI Wrkflow`**
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=plastic" align="center" />
+<img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=flat" align="center" />
 </div>  
 <br>
 
