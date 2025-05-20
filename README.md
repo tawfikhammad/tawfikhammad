@@ -2,7 +2,7 @@
 
 I love AI.
 
-**`NLP | LLMs | AI Agents | AI Wrkflow`**
+NLP | LLMs | AI Agents | AI Workflow
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=tawfikhammad&&style=flat" align="center" />
